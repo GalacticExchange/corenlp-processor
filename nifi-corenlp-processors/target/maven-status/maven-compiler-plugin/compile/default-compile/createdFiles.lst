@@ -1,0 +1,8 @@
+com/dataflowdeveloper/processors/process/PersonName.class
+com/dataflowdeveloper/processors/process/Word.class
+com/dataflowdeveloper/processors/process/Location.class
+com/dataflowdeveloper/processors/process/VaderService.class
+com/dataflowdeveloper/processors/process/ResultOutput.class
+com/dataflowdeveloper/processors/process/Sentence.class
+com/dataflowdeveloper/processors/process/SentimentService.class
+com/dataflowdeveloper/processors/process/CoreNLPProcessor.class

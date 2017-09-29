@@ -1,0 +1,8 @@
+/home/iliya/Java/nifi-corenlp-processor/nifi-corenlp-processors/src/main/java/com/dataflowdeveloper/processors/process/PersonName.java
+/home/iliya/Java/nifi-corenlp-processor/nifi-corenlp-processors/src/main/java/com/dataflowdeveloper/processors/process/Location.java
+/home/iliya/Java/nifi-corenlp-processor/nifi-corenlp-processors/src/main/java/com/dataflowdeveloper/processors/process/ResultOutput.java
+/home/iliya/Java/nifi-corenlp-processor/nifi-corenlp-processors/src/main/java/com/dataflowdeveloper/processors/process/VaderService.java
+/home/iliya/Java/nifi-corenlp-processor/nifi-corenlp-processors/src/main/java/com/dataflowdeveloper/processors/process/Sentence.java
+/home/iliya/Java/nifi-corenlp-processor/nifi-corenlp-processors/src/main/java/com/dataflowdeveloper/processors/process/Word.java
+/home/iliya/Java/nifi-corenlp-processor/nifi-corenlp-processors/src/main/java/com/dataflowdeveloper/processors/process/SentimentService.java
+/home/iliya/Java/nifi-corenlp-processor/nifi-corenlp-processors/src/main/java/com/dataflowdeveloper/processors/process/CoreNLPProcessor.java
